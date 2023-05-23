@@ -1,2 +1,3 @@
 # kelas-belajar-dasar-pemrograman-javasrcript
-Berisi semua source code waktu aku ikutin kelas ini di Dicoding
+
+Saya telah belajar menguasai dasar-dasar Java Script untuk pengembangan aplikasi web menggunakan Node.Js selama kurang lebih 45 jam 2 bulan
